@@ -434,7 +434,7 @@ header {
 	justify-content: center;
 }
 
-.team-social>li+li {
+.team-social > li + li {
 	margin-left: 10px;
 }
 
